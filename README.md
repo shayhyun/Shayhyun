@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 
-Me chamo Shayenne Almeida, tenho 25 anos e sou natural do estado do Rio de Janeiro. Concluí o ensino médio em 2018. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. Sou apaixonada por tecnologia desde criança, com alguns cursos técnicos concluídos como: Editoração Eletrônica e Montagem e Manutenção de Computadores.
+Me chamo Shayenne Almeida, tenho 25 anos e sou natural do estado do Rio de Janeiro. Concluí o ensino médio em 2018. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia desde criança, com alguns cursos técnicos concluídos como: Editoração Eletrônica e Montagem e Manutenção de Computadores.
 
 <p align="left">
     <a href="https://github.com/shayhyun?tab=repositories&sort=stargazers">
