@@ -13,14 +13,6 @@ Atualmente, busco consolidar meus conhecimentos por meio de projetos práticos, 
 - 📚 **Análise e Desenvolvimento de Sistemas** — em andamento  
 - 🎓 Ensino Médio — concluído em 2018  
 
----
-
-## 📂 Projetos em destaque
-- 📚 **Sistema de Gerenciamento de Biblioteca em C**  
-  Projeto acadêmico desenvolvido em linguagem C, com funcionalidades de cadastro, listagem, pesquisa e ordenação de livros.  
-  👉 [Acessar repositório](https://github.com/shayhyun/sistema-gerenciamento-biblioteca-c)
-
-*(Novos projetos serão adicionados conforme a evolução dos estudos.)*
 
 ---
 
